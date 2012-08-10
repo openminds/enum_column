@@ -80,6 +80,4 @@ private
       __extract_limit_enum(sql_type)
     end
   end
-
-
 end
